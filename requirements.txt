@@ -1,0 +1,6 @@
+Flask==2.0.3
+opencv-python==4.5.5.62
+numpy==1.21.2
+tensorflow==2.6.0
+pytube==11.0.1
+scikit-image==0.18.3
